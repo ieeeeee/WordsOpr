@@ -1,0 +1,15 @@
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\WordsOpr.exe.config
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\WordsOpr.exe
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\WordsOpr.pdb
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\NPOI.dll
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\NPOI.OOXML.dll
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\bin\Debug\NPOI.xml
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.csprojResolveAssemblyReference.cache
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.Form1.resources
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.Properties.Resources.resources
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.csproj.GenerateResource.Cache
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.exe
+C:\Users\88882216\Documents\IeeZhai0129\Mine\Dev\WordsOpr\WordsOpr\WordsOpr\obj\Debug\WordsOpr.pdb
